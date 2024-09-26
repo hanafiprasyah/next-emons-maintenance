@@ -17,7 +17,7 @@ export default function Home() {
               src={EmonsLogo}
               className="w-40 h-auto mx-auto mb-4 lg:w-60"
             />
-            <h1 className="text-xl font-bold text-gray-800 lg:text-3xl sm:text-4xl dark:text-white">
+            <h1 className="text-xl font-bold text-white lg:text-3xl">
               EMONS is under maintenance
             </h1>
             <p className="mt-3 text-sm text-gray-600 lg:text-lg dark:text-neutral-400">
