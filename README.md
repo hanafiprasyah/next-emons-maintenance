@@ -4,4 +4,4 @@ This page will only be displayed when the main EMONS app is under maintenance. N
 
 ## Main App
 
-You can access [https://emons.id/](This URL to go to EMONS App)
+You can access [EMONS App](https://emons.id)
