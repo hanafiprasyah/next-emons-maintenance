@@ -1,7 +1,19 @@
 {
   "compilerOptions": {
+    "module": "CommonJS",
+    "sourceMap": true,
+    "target": "ES6",
+    "jsx": "react-jsx",
+    "noImplicitAny": false,
+    "lib": ["ES2015", "DOM"],
+    "baseUrl": "app/",
+    "pretty": true,
+    "checkJs": true,
+    "allowImportingTsExtensions": true,
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@/components/*": ["components/*"],
+      "@/assets/*": ["assets/*"],
     }
   }
 }
